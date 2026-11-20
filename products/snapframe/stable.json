@@ -1,0 +1,4 @@
+{
+  "manifest": "{\"product\":\"snapframe\",\"channel\":\"stable\",\"version\":\"2.0.0\",\"released\":\"2026-11-20T17:04:50.148Z\",\"notes\":\"- First Gumroad release of SnapFrame 2: frame capture, smart paste, and editable-layer transfer between\\n  After Effects, Premiere Pro, Illustrator, Photoshop, Cavalry and Blender (same features as the aescripts release).\\n- Gumroad license keys: activation in the License window, 14-day trial, works offline for 7 days between checks.\"}",
+  "signature": "E7sqrv3to8qOotd+NEloF5e5Rv5qi44jmOIlbpqYE2R2qP7+8ql8ALtNev5Cij5pRHJNn41qIcJf8BRnrKKsCA=="
+}
